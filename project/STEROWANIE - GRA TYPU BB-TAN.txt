@@ -1,4 +1,5 @@
 Sterowanie:
 
-Q - ruch lufy gracza w lewo
-E - ruch lufy gracza w prawo
+Q - obrót lufy gracza w lewo
+E - obrót lufy gracza w prawo
+B - strzał z lufy

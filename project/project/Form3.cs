@@ -19,7 +19,7 @@ namespace project
 
         Form1 givenMainMenu;
 
-        SoundPlayer bbTanThemeMusicPlayer = new SoundPlayer("./../../../../music/bbtan-theme-song.wav");
+        SoundPlayer bbTanThemeMusicPlayer = new SoundPlayer("./../../../../music/BBTan-Theme-Song.wav");
 
         public Form3(Form1 MainMenu)
         {

@@ -14,7 +14,7 @@ public class PlayerTest
     {
         Form2 Window = new Form2(true, Form1.difficultyModes.easy);
 
-        Player p1 = null;
+        Player p1 = new Player(Window);
         Player p2 = new Player(Window);
 
         Assert.IsNotNull(p1);
