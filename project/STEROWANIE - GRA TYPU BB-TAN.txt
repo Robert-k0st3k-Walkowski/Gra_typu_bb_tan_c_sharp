@@ -1,0 +1,4 @@
+Sterowanie:
+
+Q - ruch lufy gracza w lewo
+E - ruch lufy gracza w prawo
